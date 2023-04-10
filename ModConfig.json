@@ -1,9 +1,9 @@
 {
-  "ModId": "p5rpc.kasumioverjokerroyal",
+  "ModId": "p5rpc.kasumiasprotagdev",
   "ModName": "Kasumi as Protag Dev Build",
   "ModAuthor": "Wisteria",
   "ModVersion": "1.0.0",
-  "ModDescription": "Placeholder",
+  "ModDescription": "Protag Kasumi dev build",
   "ModDll": "",
   "ModIcon": "",
   "ModR2RManagedDll32": "",
@@ -14,7 +14,7 @@
   "CanUnload": null,
   "HasExports": null,
   "IsLibrary": false,
-  "ReleaseMetadataFileName": "p5rpc.kasumioverjokerroyal.ReleaseMetadata.json",
+  "ReleaseMetadataFileName": "p5rpc.kasumiasprotagdev.ReleaseMetadata.json",
   "PluginData": {
     "GitHubDependencies": {
       "IdToConfigMap": {
