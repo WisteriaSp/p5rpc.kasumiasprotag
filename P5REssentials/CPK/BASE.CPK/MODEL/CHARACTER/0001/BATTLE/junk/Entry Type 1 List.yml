@@ -1,0 +1,392 @@
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.44999998807907104
+  NodeName: b F_hair01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.30000001192092896
+  Field40: 0.69999998807907104
+  Field38: 0.050000034272670746
+  Field34: 2.0000004768371582
+  NodeName: b F_hair02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 2.0000007152557373
+  NodeName: b B_hair01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.80000001192092896
+  Field40: 0.10000000149011612
+  Field38: 0.019999999552965164
+  Field34: 2
+  NodeName: b B_hair02
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.5
+  Field40: 0.40000000596046448
+  Field38: 0.079999998211860657
+  Field34: 3
+  NodeName: b B_hair03
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.20000000298023224
+  Field40: 1
+  Field38: 0.0099999997764825821
+  Field34: 3
+  NodeName: b B_hair04_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.44999998807907104
+  NodeName: b r u_ribbon01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.30000001192092896
+  Field40: 0.69999998807907104
+  Field38: 0.029999999329447746
+  Field34: 2.0000004768371582
+  NodeName: b r u_ribbon02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.30000001192092896
+  Field40: 0.69999998807907104
+  Field38: 0.029999999329447746
+  Field34: 2.0000004768371582
+  NodeName: b l u_ribbon02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.44999998807907104
+  NodeName: b l u_ribbon01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.44999998807907104
+  NodeName: b r ribbon01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.40000000596046448
+  Field40: 0.69999998807907104
+  Field38: 0.029999999329447746
+  Field34: 2.0000004768371582
+  NodeName: b r ribbon02
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.40000000596046448
+  Field40: 0.69999998807907104
+  Field38: 0.029999999329447746
+  Field34: 2.0000004768371582
+  NodeName: b l ribbon02
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.44999998807907104
+  NodeName: b l ribbon01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.20000000298023224
+  Field40: 0.69999998807907104
+  Field38: 0.019999999552965164
+  Field34: 2.0000004768371582
+  NodeName: b l ribbon03
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.15000000596046448
+  Field40: 1
+  Field38: 0.0099999997764825821
+  Field34: 2.0000004768371582
+  NodeName: b l ribbon04_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.20000000298023224
+  Field40: 0.69999998807907104
+  Field38: 0.019999999552965164
+  Field34: 2.0000004768371582
+  NodeName: b r ribbon03
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.15000000596046448
+  Field40: 1
+  Field38: 0.0099999997764825821
+  Field34: 2.0000004768371582
+  NodeName: b r ribbon04_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.20000000298023224
+  NodeName: b l u sleeve01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.89999997615814209
+  Field40: 0.89999991655349731
+  Field38: 0.019999999552965164
+  Field34: 0.20000000298023224
+  NodeName: b l u sleeve02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.20000000298023224
+  NodeName: b l d sleeve01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.89999997615814209
+  Field40: 0.89999991655349731
+  Field38: 0.019999999552965164
+  Field34: 0.20000000298023224
+  NodeName: b l d sleeve02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.20000000298023224
+  NodeName: b l b sleeve01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.89999997615814209
+  Field40: 0.89999991655349731
+  Field38: 0.019999999552965164
+  Field34: 0.20000000298023224
+  NodeName: b l b sleeve02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.20000000298023224
+  NodeName: b l f sleeve01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.89999997615814209
+  Field40: 0.89999991655349731
+  Field38: 0.019999999552965164
+  Field34: 0.20000000298023224
+  NodeName: b l f sleeve02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.44999998807907104
+  NodeName: b r u sleeve01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.89999997615814209
+  Field40: 0.89999991655349731
+  Field38: 0.019999999552965164
+  Field34: 0.20000000298023224
+  NodeName: b r u sleeve02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.44999998807907104
+  NodeName: b r f sleeve01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.44999998807907104
+  NodeName: b r d sleeve01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 1
+  Field40: 0
+  Field38: 0
+  Field34: 0.44999998807907104
+  NodeName: b r b sleeve01
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.89999997615814209
+  Field40: 0.89999991655349731
+  Field38: 0.019999999552965164
+  Field34: 0.20000000298023224
+  NodeName: b r d sleeve02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.89999997615814209
+  Field40: 0.89999991655349731
+  Field38: 0.019999999552965164
+  Field34: 0.20000000298023224
+  NodeName: b r f sleeve02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.89999997615814209
+  Field40: 0.89999991655349731
+  Field38: 0.019999999552965164
+  Field34: 0.20000000298023224
+  NodeName: b r b sleeve02_cut
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b b jacket06
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b l jacket06
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b r jacket06  
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b r jacket05  
+  Field10: 0
+  Field08: 0
+  Field04: 0  
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b l jacket05  
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b b jacket05  
+  Field10: 0
+  Field08: 0
+  Field04: 0  
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b r jacket04  
+  Field10: 0
+  Field08: 0
+  Field04: 0  
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b l jacket04  
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b b jacket04  
+  Field10: 0
+  Field08: 0
+  Field04: 0  
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b r jacket03  
+  Field10: 0
+  Field08: 0
+  Field04: 0  
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b l jacket03  
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b b jacket03  
+  Field10: 0
+  Field08: 0
+  Field04: 0    
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b r jacket02  
+  Field10: 0
+  Field08: 0
+  Field04: 0  
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b l jacket02  
+  Field10: 0
+  Field08: 0
+  Field04: 0
+- Field3C: 0.15000000596046448
+  Field40: 0.80000001192092896
+  Field38: 0.05000000074505806
+  Field34: 2.0000014305114746
+  NodeName: b b jacket02  
+  Field10: 0
+  Field08: 0
+  Field04: 0    
