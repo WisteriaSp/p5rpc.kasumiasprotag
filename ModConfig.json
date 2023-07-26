@@ -1,9 +1,9 @@
 {
-  "ModId": "p5rpc.kasumiasprotag",
-  "ModName": "Kasumi as Protagonist",
+  "ModId": "p5rpc.kasumiasprotag_ENGvo",
+  "ModName": "Kasumi as Protagonist - ENG VO",
   "ModAuthor": "Wisteria",
   "ModVersion": "0.1.2",
-  "ModDescription": "BETA - A mod that replaces Joker with Kasumi.",
+  "ModDescription": "ENG VO mod for Kasumi as Protagonist.",
   "ModDll": "",
   "ModIcon": "badthumbnail.png",
   "ModR2RManagedDll32": "",
@@ -14,7 +14,7 @@
   "CanUnload": null,
   "HasExports": null,
   "IsLibrary": false,
-  "ReleaseMetadataFileName": "p5rpc.kasumiasprotag.ReleaseMetadata.json",
+  "ReleaseMetadataFileName": "p5rpc.kasumiasprotag_ENGvo.ReleaseMetadata.json",
   "PluginData": {
     "GameBanana": {
       "ItemType": "Wip",
