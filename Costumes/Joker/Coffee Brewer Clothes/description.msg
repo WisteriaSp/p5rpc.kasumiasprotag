@@ -1,0 +1,1 @@
+[f 0 5 65278][f 2 1]Clothes that [f 4 2][n]likes to wear while[n]brewing coffee at home.[n][e]
