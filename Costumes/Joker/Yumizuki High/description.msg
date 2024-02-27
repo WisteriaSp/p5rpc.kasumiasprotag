@@ -1,1 +1,0 @@
-[f 0 5 65278][f 2 1]A special uniform from a{0A}school in Iwatodai for a{0A}Metaverse rebel.{0A}[n][e]
