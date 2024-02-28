@@ -1,1 +1,0 @@
-[f 0 5 65278][f 2 1]Clothes that [f 4 2] wears[n]to remain hidden.[n][e]

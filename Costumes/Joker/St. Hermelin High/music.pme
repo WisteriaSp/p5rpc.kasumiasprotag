@@ -1,7 +1,0 @@
-global_bgm[340]:
-  music = 10730
-end
-
-encounter["Normal Battles"]:
-  music = 10731
-end
