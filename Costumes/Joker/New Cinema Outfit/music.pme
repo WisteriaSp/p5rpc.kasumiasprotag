@@ -1,0 +1,7 @@
+global_bgm[340]:
+  music = 10850
+end
+
+encounter["Normal Battles"]:
+  music = battle_bgm(10851, 10852, 10853)
+end
