@@ -1,11 +1,11 @@
 {
   "ModId": "p5rpc.kasumiasprotagdev",
   "ModName": "Kasumi as Protag - Adam\u0027s Dev Build",
-  "ModAuthor": "Wisteria & xJustAdam",
+  "ModAuthor": "Wisteria \u0026 xJustAdam",
   "ModVersion": "1.0.0",
   "ModDescription": "Protag Kasumi dev build",
   "ModDll": "",
-  "ModIcon": "",
+  "ModIcon": "badthumbnail.png",
   "ModR2RManagedDll32": "",
   "ModR2RManagedDll64": "",
   "ModNativeDll32": "",
@@ -26,6 +26,15 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "p5rpc.modloader.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
         },
         "crifs.v2.hook": {
           "Config": {
@@ -53,15 +62,6 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
-        },
-        "reloaded.sharedlib.hooks": {
-          "Config": {
-            "UserName": "Sewer56",
-            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
-            "UseReleaseTag": true,
-            "AssetFileName": "reloaded.sharedlib.hooks.zip"
-          },
-          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
         },
         "reloaded.universal.fileemulationframework.bf": {
           "Config": {
@@ -121,19 +121,19 @@
     },
     "GameBananaDependencies": {
       "IdToConfigMap": {
+        "BGME.BattleThemes": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 488707
+          },
+          "ReleaseMetadataName": "BGME.BattleThemes.ReleaseMetadata.json"
+        },
         "P5R.CostumeFramework": {
           "Config": {
             "ItemType": "Mod",
             "ItemId": 488633
           },
           "ReleaseMetadataName": "P5R.CostumeFramework.ReleaseMetadata.json"
-        },
-        "BGME.Framework": {
-          "Config": {
-            "ItemType": "Mod",
-            "ItemId": 477399
-          },
-          "ReleaseMetadataName": "BGME.Framework.ReleaseMetadata.json"
         },
         "BGME.Framework.API": {
           "Config": {
@@ -142,19 +142,21 @@
           },
           "ReleaseMetadataName": "BGME.Framework.API.ReleaseMetadata.json"
         },
-        "BGME.BattleThemes": {
+        "BGME.Framework": {
           "Config": {
             "ItemType": "Mod",
-            "ItemId": 488707
+            "ItemId": 477399
           },
-          "ReleaseMetadataName": "BGME.BattleThemes.ReleaseMetadata.json"
+          "ReleaseMetadataName": "BGME.Framework.ReleaseMetadata.json"
         }
       }
     }
   },
   "IsUniversalMod": false,
   "ModDependencies": [
+    "BGME.BattleThemes",
     "P5R.CostumeFramework",
+    "p5r.enhance.cbt",
     "p5rpc.modloader"
   ],
   "OptionalDependencies": [],
