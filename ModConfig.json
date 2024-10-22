@@ -1,5 +1,5 @@
 {
-  "ModId": "p5rpc.kasumiasprotagdev",
+  "ModId": "p5rpc.kasumiasprotagdev2",
   "ModName": "Kasumi as Protag - Adam\u0027s Dev Build",
   "ModAuthor": "Wisteria \u0026 xJustAdam",
   "ModVersion": "1.0.0",
@@ -14,7 +14,7 @@
   "CanUnload": null,
   "HasExports": null,
   "IsLibrary": false,
-  "ReleaseMetadataFileName": "p5rpc.kasumiasprotagdev.ReleaseMetadata.json",
+  "ReleaseMetadataFileName": "p5rpc.kasumiasprotagdev2.ReleaseMetadata.json",
   "PluginData": {
     "GitHubDependencies": {
       "IdToConfigMap": {
@@ -26,6 +26,15 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "p5rpc.modloader.ReleaseMetadata.json"
+        },
+        "Reloaded.Memory.SigScan.ReloadedII": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
         },
         "reloaded.sharedlib.hooks": {
           "Config": {
@@ -54,23 +63,14 @@
           },
           "ReleaseMetadataName": "p5rpc.lib.ReleaseMetadata.json"
         },
-        "Reloaded.Memory.SigScan.ReloadedII": {
-          "Config": {
-            "UserName": "Reloaded-Project",
-            "RepositoryName": "Reloaded.Memory.SigScan",
-            "UseReleaseTag": false,
-            "AssetFileName": "Mod.zip"
-          },
-          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
-        },
-        "reloaded.universal.fileemulationframework.bf": {
+        "CriFs.V2.Hook.Awb": {
           "Config": {
             "UserName": "Sewer56",
-            "RepositoryName": "FileEmulationFramework",
+            "RepositoryName": "CriFs.V2.Hook.ReloadedII",
             "UseReleaseTag": false,
             "AssetFileName": "Mod.zip"
           },
-          "ReleaseMetadataName": "BF.File.Emulator.ReleaseMetadata.json"
+          "ReleaseMetadataName": "CriFs.V2.Hook.Awb.ReleaseMetadata.json"
         },
         "reloaded.universal.fileemulationframework.pak": {
           "Config": {
@@ -81,24 +81,6 @@
           },
           "ReleaseMetadataName": "PAK.Stream.Emulator.ReleaseMetadata.json"
         },
-        "reloaded.universal.fileemulationframework.spd": {
-          "Config": {
-            "UserName": "Sewer56",
-            "RepositoryName": "FileEmulationFramework",
-            "UseReleaseTag": false,
-            "AssetFileName": "Mod.zip"
-          },
-          "ReleaseMetadataName": "SPD.File.Emulator.ReleaseMetadata.json"
-        },
-        "CriFs.V2.Hook.Awb": {
-          "Config": {
-            "UserName": "Sewer56",
-            "RepositoryName": "CriFs.V2.Hook.ReloadedII",
-            "UseReleaseTag": false,
-            "AssetFileName": "Mod.zip"
-          },
-          "ReleaseMetadataName": "CriFs.V2.Hook.Awb.ReleaseMetadata.json"
-        },
         "reloaded.universal.fileemulationframework.bmd": {
           "Config": {
             "UserName": "Sewer56",
@@ -107,6 +89,24 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "BMD.File.Emulator.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework.bf": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "BF.File.Emulator.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework.spd": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "SPD.File.Emulator.ReleaseMetadata.json"
         },
         "reloaded.universal.fileemulationframework.awb": {
           "Config": {
@@ -130,12 +130,12 @@
     },
     "GameBananaDependencies": {
       "IdToConfigMap": {
-        "BGME.BattleThemes": {
+        "BGME.Framework": {
           "Config": {
             "ItemType": "Mod",
-            "ItemId": 488707
+            "ItemId": 477399
           },
-          "ReleaseMetadataName": "BGME.BattleThemes.ReleaseMetadata.json"
+          "ReleaseMetadataName": "BGME.Framework.ReleaseMetadata.json"
         },
         "P5R.CostumeFramework": {
           "Config": {
@@ -151,6 +151,13 @@
           },
           "ReleaseMetadataName": "p5r.enhance.cbt.ReleaseMetadata.json"
         },
+        "Ryo.Reloaded": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 495507
+          },
+          "ReleaseMetadataName": "Ryo.Reloaded.ReleaseMetadata.json"
+        },
         "BGME.Framework.API": {
           "Config": {
             "ItemType": "Mod",
@@ -158,22 +165,30 @@
           },
           "ReleaseMetadataName": "BGME.Framework.API.ReleaseMetadata.json"
         },
-        "BGME.Framework": {
+        "SharedScans.Reloaded": {
           "Config": {
             "ItemType": "Mod",
-            "ItemId": 477399
+            "ItemId": 495507
           },
-          "ReleaseMetadataName": "BGME.Framework.ReleaseMetadata.json"
+          "ReleaseMetadataName": "SharedScans.Reloaded.ReleaseMetadata.json"
+        },
+        "BGME.BattleThemes": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 488707
+          },
+          "ReleaseMetadataName": "BGME.BattleThemes.ReleaseMetadata.json"
         }
       }
     }
   },
   "IsUniversalMod": false,
   "ModDependencies": [
-    "BGME.BattleThemes",
+    "BGME.Framework",
     "P5R.CostumeFramework",
     "p5r.enhance.cbt",
-    "p5rpc.modloader"
+    "p5rpc.modloader",
+    "Ryo.Reloaded"
   ],
   "OptionalDependencies": [],
   "SupportedAppId": [
