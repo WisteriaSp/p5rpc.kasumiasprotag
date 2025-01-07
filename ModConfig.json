@@ -1,11 +1,11 @@
 {
   "ModId": "p5rpc.kasumiasprotag",
-  "ModName": "Kasumi as Protagonist",
+  "ModName": "Kasumi as Protagonist - Test Build",
   "ModAuthor": "Wisteria",
-  "ModVersion": "0.1.2",
-  "ModDescription": "BETA - A mod that replaces Joker with Kasumi.",
+  "ModVersion": "0.9",
+  "ModDescription": "BETA 0.9 - A mod that replaces Joker with Kasumi. NOTE: Please install Costume Framework and use the configure button to set Joker\u0027s character slot to 1.",
   "ModDll": "",
-  "ModIcon": "badthumbnail.png",
+  "ModIcon": "protag2.png",
   "ModR2RManagedDll32": "",
   "ModR2RManagedDll64": "",
   "ModNativeDll32": "",
@@ -67,6 +67,42 @@
           },
           "ReleaseMetadataName": "CriFs.V2.Hook.ReleaseMetadata.json"
         },
+        "reloaded.universal.fileemulationframework.pak": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "PAK.Stream.Emulator.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework.bmd": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "BMD.File.Emulator.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework.bf": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "BF.File.Emulator.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework.spd": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "SPD.File.Emulator.ReleaseMetadata.json"
+        },
         "reloaded.universal.fileemulationframework.awb": {
           "Config": {
             "UserName": "Sewer56",
@@ -90,7 +126,9 @@
   },
   "IsUniversalMod": false,
   "ModDependencies": [
-    "p5rpc.modloader"
+    "P5R.CostumeFramework",
+    "p5rpc.modloader",
+    "Ryo.Reloaded"
   ],
   "OptionalDependencies": [],
   "SupportedAppId": [
