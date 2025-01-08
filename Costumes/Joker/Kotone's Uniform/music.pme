@@ -1,5 +1,0 @@
-encounter["Normal Battles"]:
-  music = battle_bgm(10682, 10681)
-  victory_music = song(10710)
-end
-
