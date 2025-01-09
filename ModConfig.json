@@ -2,7 +2,7 @@
   "ModId": "p5rpc.kasumiasprotag",
   "ModName": "Kasumi as Protagonist - Test Build",
   "ModAuthor": "Wisteria",
-  "ModVersion": "0.9",
+  "ModVersion": "0.9.1",
   "ModDescription": "BETA 0.9 - A mod that replaces Joker with Kasumi. NOTE: Please install Costume Framework and use the configure button to set Joker\u0027s character slot to 1.",
   "ModDll": "",
   "ModIcon": "protag2.png",
@@ -31,32 +31,32 @@
           },
           "ReleaseMetadataName": "p5rpc.modloader.ReleaseMetadata.json"
         },
-        "reloaded.sharedlib.hooks": {
+        "Ryo.Reloaded": {
           "Config": {
-            "UserName": "Sewer56",
-            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
-            "UseReleaseTag": true,
-            "AssetFileName": "reloaded.sharedlib.hooks.zip"
-          },
-          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
-        },
-        "Reloaded.Memory.SigScan.ReloadedII": {
-          "Config": {
-            "UserName": "Reloaded-Project",
-            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UserName": "RyoTune",
+            "RepositoryName": "Ryo",
             "UseReleaseTag": false,
             "AssetFileName": "Mod.zip"
           },
-          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+          "ReleaseMetadataName": "Ryo.Reloaded.ReleaseMetadata.json"
         },
-        "CriFs.V2.Hook.Awb": {
+        "BGME.Framework": {
           "Config": {
-            "UserName": "Sewer56",
-            "RepositoryName": "CriFs.V2.Hook.ReloadedII",
+            "UserName": "RyoTune",
+            "RepositoryName": "BGME",
             "UseReleaseTag": false,
             "AssetFileName": "Mod.zip"
           },
-          "ReleaseMetadataName": "CriFs.V2.Hook.Awb.ReleaseMetadata.json"
+          "ReleaseMetadataName": "BGME.Framework.ReleaseMetadata.json"
+        },
+        "BGME.Framework.API": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "BGME",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "BGME.Framework.API.ReleaseMetadata.json"
         },
         "crifs.v2.hook": {
           "Config": {
@@ -67,23 +67,32 @@
           },
           "ReleaseMetadataName": "CriFs.V2.Hook.ReleaseMetadata.json"
         },
-        "reloaded.universal.fileemulationframework.pak": {
+        "p5rpc.lib": {
           "Config": {
-            "UserName": "Sewer56",
-            "RepositoryName": "FileEmulationFramework",
-            "UseReleaseTag": false,
+            "UserName": "AnimatedSwine37",
+            "RepositoryName": "p5rpc.lib",
+            "UseReleaseTag": true,
             "AssetFileName": "Mod.zip"
           },
-          "ReleaseMetadataName": "PAK.Stream.Emulator.ReleaseMetadata.json"
+          "ReleaseMetadataName": "p5rpc.lib.ReleaseMetadata.json"
         },
-        "reloaded.universal.fileemulationframework.bmd": {
+        "Reloaded.Memory.SigScan.ReloadedII": {
           "Config": {
-            "UserName": "Sewer56",
-            "RepositoryName": "FileEmulationFramework",
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
             "UseReleaseTag": false,
             "AssetFileName": "Mod.zip"
           },
-          "ReleaseMetadataName": "BMD.File.Emulator.ReleaseMetadata.json"
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
         },
         "reloaded.universal.fileemulationframework.bf": {
           "Config": {
@@ -94,6 +103,15 @@
           },
           "ReleaseMetadataName": "BF.File.Emulator.ReleaseMetadata.json"
         },
+        "reloaded.universal.fileemulationframework.pak": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "PAK.Stream.Emulator.ReleaseMetadata.json"
+        },
         "reloaded.universal.fileemulationframework.spd": {
           "Config": {
             "UserName": "Sewer56",
@@ -102,6 +120,42 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "SPD.File.Emulator.ReleaseMetadata.json"
+        },
+        "BGME.BattleThemes": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "BGME.BattleThemes",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "BGME.BattleThemes.ReleaseMetadata.json"
+        },
+        "SharedScans.Reloaded": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "SharedScans",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "SharedScans.Reloaded.ReleaseMetadata.json"
+        },
+        "CriFs.V2.Hook.Awb": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "CriFs.V2.Hook.ReloadedII",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "CriFs.V2.Hook.Awb.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework.bmd": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "BMD.File.Emulator.ReleaseMetadata.json"
         },
         "reloaded.universal.fileemulationframework.awb": {
           "Config": {
@@ -120,6 +174,17 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "Reloaded.Universal.FileEmulationFramework.ReleaseMetadata.json"
+        }
+      }
+    },
+    "GameBananaDependencies": {
+      "IdToConfigMap": {
+        "P5R.CostumeFramework": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 488633
+          },
+          "ReleaseMetadataName": "P5R.CostumeFramework.ReleaseMetadata.json"
         }
       }
     }
