@@ -5,9 +5,3 @@ acb_name: 'system'
 # For replacing audio besides BGM, set the ID to -1.
 # -1 will inherit the player of the replaced cue.
 player_id: -1
-
-
-# Volume setting. Range: 0.0 to 1.0+
-volume: 0.3
-
-use_player_volume: true
