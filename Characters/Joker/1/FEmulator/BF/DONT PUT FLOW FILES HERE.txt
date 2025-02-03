@@ -1,0 +1,1 @@
+putting any dummy files inside a character slot folder will cause BF emulator to *NOT* compile the script. place them in P5REssentials and flows in root directory FEmulator
