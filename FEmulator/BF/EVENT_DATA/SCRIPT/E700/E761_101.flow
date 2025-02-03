@@ -1,0 +1,51 @@
+import( "E761_101.msg" );
+
+// Procedure Index: 5
+void e761_101_05_hook()
+{
+    int var7;
+    var7 = 0;
+    
+    if ( ( BIT_CHK( 3837 ) == 1 ) || ( BIT_CHK( 3839 ) == 1 ) )
+    {
+        var7 = 10;
+    }
+    else if ( BIT_CHK( 3834 ) == 1 )
+    {
+        var7 = 8;
+    }
+    else 
+    {
+        var7 = 7;
+    }
+
+    MSG_WND_DSP();
+    MSG_MIND( var7, 0 );
+    MSG_WND_CLS();
+}
+
+// Procedure Index: 7
+void e761_101_07_hook()
+{
+    
+    if ( ( BIT_CHK( 3837 ) == 1 ) || ( BIT_CHK( 3839 ) == 1 ) )
+    {
+        ADD_PC_ALL_PARAM( 0, 5, 0, 0, 0 );
+    }
+    else if ( BIT_CHK( 3834 ) == 1 )
+    {
+        ADD_PC_ALL_PARAM( 0, 3, 0, 0, 0 );
+        MSG_WND_DSP();
+        MSG_MIND( MSG_HOT_DAY, 0 );
+        MSG_WND_CLS();
+        ADD_PC_ALL_PARAM( 0, 0, 0, 2, 0 );
+        TROPHY_REQUEST( 142, 0 );
+    }
+    else 
+    {
+        ADD_PC_ALL_PARAM( 0, 3, 0, 0, 0 );
+    }
+
+    BIT_ON( 4202 );
+}
+
