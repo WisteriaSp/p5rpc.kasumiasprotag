@@ -1,0 +1,3353 @@
+{
+  "Endianness": "Little",
+  "Version": "0x2722e",
+  "MajorId": 761,
+  "MinorId": 101,
+  "Field0C": 5,
+  "Field0D": 1,
+  "Field0E": 0,
+  "Field14": 144,
+  "Field18": "0x123",
+  "Duration": 345,
+  "Field20": 30,
+  "Field21": 0,
+  "Field22": 0,
+  "Field24": 0,
+  "Field28": 1,
+  "Field2C": 1,
+  "Field3C": 0,
+  "Field4C": 0,
+  "EventBmdPath": "Null",
+  "EventBmdPathLength": 0,
+  "Field58": 0,
+  "Field5C": 0,
+  "EventBfPath": "Null",
+  "EventBfPathLength": 0,
+  "Field68": 0,
+  "Field6C": 0,
+  "Field70": -1,
+  "Field74": 35,
+  "Field78": 90,
+  "Field7C": 155,
+  "Field80": 235,
+  "Field84": -1,
+  "Field88": -1,
+  "Field8C": -1,
+  "Field90": 0,
+  "Field94": 0,
+  "Field98": 0,
+  "Field9C": 0,
+  "FieldA0": 0,
+  "FieldA4": 0,
+  "FieldA8": 0,
+  "FieldAC": 0,
+  "FieldB0": 0,
+  "FieldB4": 0,
+  "FieldB8": 0,
+  "FieldBC": 0,
+  "FieldC0": 0,
+  "FieldC4": 0,
+  "FieldC8": 0,
+  "FieldCC": 0,
+  "FieldD0": 0,
+  "FieldD4": 0,
+  "FieldD8": 0,
+  "FieldDC": 0,
+  "FieldE0": 0,
+  "FieldE4": 0,
+  "FieldE8": 0,
+  "FieldEC": 0,
+  "FieldF0": 0,
+  "FieldF4": 0,
+  "FieldF8": 0,
+  "FieldFC": 0,
+  "Field100": 0,
+  "Field104": 0,
+  "Field108": 0,
+  "Field10C": 0,
+  "Field110": 0,
+  "Field114": 0,
+  "Field118": 0,
+  "Field11C": 0,
+  "Field120": 0,
+  "Field124": 0,
+  "Field128": 0,
+  "Field12C": 0,
+  "Objects": [
+    {
+      "Id": 1,
+      "Type": "Env",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 0,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 0,
+      "Field1C": "0x0",
+      "AnimationMajorId": -1,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 2,
+      "Type": "Field",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 9,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 4,
+      "Field1C": "0x1",
+      "AnimationMajorId": -1,
+      "AnimationMinorId": 761,
+      "AnimationSubId": 101,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 3,
+      "Type": "Character",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 1,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 65,
+      "Field1C": "0x0",
+      "AnimationMajorId": 26,
+      "AnimationMinorId": 755,
+      "AnimationSubId": 761,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 4,
+      "Type": "Character",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 3,
+      "ResourceSubId": 5,
+      "ResourceMinorId": 201,
+      "Field1C": "0x0",
+      "AnimationMajorId": 1,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 5,
+      "Type": "Character",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 4471,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 8,
+      "Field1C": "0x1",
+      "AnimationMajorId": 701,
+      "AnimationMinorId": 5852,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 6,
+      "Type": "Character",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 4444,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 0,
+      "Field1C": "0x1",
+      "AnimationMajorId": 901,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 7,
+      "Type": "Character",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 4441,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 4,
+      "Field1C": "0x1",
+      "AnimationMajorId": 902,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 18,
+      "Type": "Character",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 4265,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 20,
+      "Field1C": "0x1",
+      "AnimationMajorId": 101,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 20,
+      "Type": "Character",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 4266,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 20,
+      "Field1C": "0x1",
+      "AnimationMajorId": 102,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 9,
+      "Type": "Item",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 437,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 0,
+      "Field1C": "0x0",
+      "AnimationMajorId": -1,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 22,
+      "Type": "Item",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 499,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 0,
+      "Field1C": "0x0",
+      "AnimationMajorId": -1,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 8,
+      "Type": "Item",
+      "Field08": 1,
+      "DuplicateObjectIndex": 1,
+      "ResourceMajorId": 437,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 0,
+      "Field1C": "0x0",
+      "AnimationMajorId": -1,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 19,
+      "Type": "Particle",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 610,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 0,
+      "Field1C": "0x0",
+      "AnimationMajorId": -1,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 21,
+      "Type": "Particle",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 610,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 1,
+      "Field1C": "0x0",
+      "AnimationMajorId": -1,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    },
+    {
+      "Id": 10,
+      "Type": "Particle",
+      "Field08": 1,
+      "DuplicateObjectIndex": 0,
+      "ResourceMajorId": 613,
+      "ResourceSubId": 0,
+      "ResourceMinorId": 3,
+      "Field1C": "0x0",
+      "AnimationMajorId": -1,
+      "AnimationMinorId": -1,
+      "AnimationSubId": -1,
+      "Field28": 0,
+      "Field2C": 0
+    }
+  ],
+  "Commands": [
+    {
+      "Type": "FS__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 2,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 48,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0,
+        "Field10": 0,
+        "Field14": 0,
+        "Field18": 0.0,
+        "Field1C": 0,
+        "Field20": 0,
+        "Field24": 0,
+        "Field28": 0,
+        "Field2C": 0
+      }
+    },
+    {
+      "Type": "CSD_",
+      "Field04": 3,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 80,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "SomeCameraBitfield": 272,
+        "Position": {
+          "X": -75.1617355,
+          "Y": 1.81865811,
+          "Z": 1038.60864
+        },
+        "Rotation": {
+          "X": -147.070251,
+          "Y": 13.8643866,
+          "Z": 0.0
+        },
+        "Fov": 45.0,
+        "Field20": 763.487244,
+        "Field24": 0.0,
+        "Field28": 100003.414,
+        "Field2C": 0.78,
+        "Field30": 0,
+        "Field34": 4,
+        "Field38": 375.0,
+        "Field3C": 565.0,
+        "Field40": 512,
+        "Field44": 0,
+        "Field48": 0,
+        "Field4C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 129.1509,
+          "Y": -5.72656,
+          "Z": 1450.273
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 172.950439,
+          "Z": 0.0
+        },
+        "Field18": 7,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 4,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "CwP_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 2,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 7,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "CwP_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 2,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 3,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "CwP_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 2,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 8,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "CwP_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 2,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 9,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "CwP_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 2,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 12,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "FAB_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 2,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 80,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "Field04": 204,
+        "Field08": 0,
+        "Field0C": 0,
+        "Field10": 1,
+        "Field14": 0,
+        "Field18": 0,
+        "Field1C": 0,
+        "Field20": 0,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0,
+        "Field40": 1,
+        "Field44": 1.0,
+        "Field48": 0,
+        "Field4C": 0
+      }
+    },
+    {
+      "Type": "CShk",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 1.0,
+        "Field10": 1.0,
+        "Field14": 0,
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "EnFD",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "Field04": 4354,
+        "Field08": 0,
+        "Field0C": 0,
+        "Field10": 0,
+        "LowerBounds": 100.0,
+        "UpperBounds": 1000.0,
+        "Red": 230,
+        "Green": 88,
+        "Blue": 104,
+        "Alpha": 116
+      }
+    },
+    {
+      "Type": "CwP_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 2,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 6,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "CwP_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 2,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 5,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fa",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 214.792,
+          "Y": -85.2041,
+          "Z": 1428.304
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -170.375977,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 5,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fa",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 210.846,
+          "Y": -75.0,
+          "Z": 1430.372
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -36.0,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 4,
+        "Field2C": 36,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "ESD_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 10,
+      "ForceSkipCommand": 0,
+      "Frame": 1,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fa",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 178.137787,
+        "Field08": 70.0,
+        "Field0C": 1477.42883,
+        "Field10": 0.0,
+        "Field14": 0.0,
+        "Field18": 0.0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "FrJ_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 2,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fa",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "JumpToFrame": 35,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "FrJ_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 2,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fc",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "JumpToFrame": 155,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "FrJ_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 2,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fd",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "JumpToFrame": 155,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "FrJ_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 2,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fe",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "JumpToFrame": 155,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "FrJ_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 2,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002ff",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "JumpToFrame": 155,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "FrJ_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 2,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fb",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "JumpToFrame": 90,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "Fd__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 5,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "FadeMode": "FadeOut",
+        "FadeType": 0,
+        "Field06": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 20,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 65536,
+        "Target": {
+          "X": 115.404778,
+          "Y": 179.707031,
+          "Z": 1352.831
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "Scr_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 20,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "ProcedureIndex": 1,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "Fd__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 34,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "FadeMode": "FadeIn",
+        "FadeType": 19,
+        "Field06": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "FrJ_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 34,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "JumpToFrame": 230,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "Fd__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 40,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "FadeMode": "FadeOut",
+        "FadeType": 0,
+        "Field06": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "Scr_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 50,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "ProcedureIndex": 2,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 55,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 2,
+        "Field08": 131072,
+        "Target": {
+          "X": 124.4527,
+          "Y": 62.41699,
+          "Z": 1410.56
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "FrJ_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 89,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "JumpToFrame": 230,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "Fd__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 89,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "FadeMode": "FadeIn",
+        "FadeType": 19,
+        "Field06": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 6,
+      "ForceSkipCommand": 0,
+      "Frame": 95,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 250.1759,
+          "Y": -50.21155,
+          "Z": 1472.996
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -137.636719,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 1.401298E-44,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 7,
+      "ForceSkipCommand": 0,
+      "Frame": 95,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 209.994,
+          "Y": -55.84277,
+          "Z": 1467.405
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 121.134338,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 5,
+      "ForceSkipCommand": 0,
+      "Frame": 95,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 63.44354,
+          "Y": -71.315,
+          "Z": 1460.111
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -178.557129,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 18,
+      "ForceSkipCommand": 0,
+      "Frame": 95,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 346.1001,
+          "Y": -58.07129,
+          "Z": 1366.133
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 29.0332031,
+          "Z": 0.0
+        },
+        "Field18": 13,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 20,
+      "ForceSkipCommand": 0,
+      "Frame": 95,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 183.8522,
+          "Y": -53.33557,
+          "Z": 1362.767
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 19.6847534,
+          "Z": 0.0
+        },
+        "Field18": 13,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 6,
+      "ForceSkipCommand": 0,
+      "Frame": 95,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 393216,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 151.5433,
+          "Y": 42.68921,
+          "Z": 1348.853
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 7,
+      "ForceSkipCommand": 0,
+      "Frame": 95,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 393216,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 255.9617,
+          "Y": 44.01855,
+          "Z": 1469.652
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "Fd__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 95,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "FadeMode": "FadeOut",
+        "FadeType": 0,
+        "Field06": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 100,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 178.269,
+          "Y": 54.25781,
+          "Z": 1337.811
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 119,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 67.1815643,
+          "Y": 54.2578125,
+          "Z": 1353.06177
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "Scr_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 130,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "ProcedureIndex": 3,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 135,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 116.644058,
+          "Y": 40.20996,
+          "Z": 1360.59631
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 145,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 122.0148,
+          "Y": -22.23816,
+          "Z": 1374.69348
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "Fd__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 154,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "FadeMode": "FadeIn",
+        "FadeType": 19,
+        "Field06": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "FrJ_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 154,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "JumpToFrame": 230,
+        "Field04": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MScl",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 9,
+      "ForceSkipCommand": 0,
+      "Frame": 156,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 4354,
+        "Field08": 1.0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 9,
+      "ForceSkipCommand": 0,
+      "Frame": 156,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fe",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 105.9277,
+          "Y": 28.13965,
+          "Z": 1396.18
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -28.6486816,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MScl",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 8,
+      "ForceSkipCommand": 0,
+      "Frame": 156,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 4354,
+        "Field08": 1.0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 8,
+      "ForceSkipCommand": 0,
+      "Frame": 156,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fe",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 253.1995,
+          "Y": 28.13965,
+          "Z": 1409.049
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 158.0896,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 9,
+      "ForceSkipCommand": 0,
+      "Frame": 156,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fe",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 122.0031,
+          "Y": 28.13965,
+          "Z": 1352.466
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -35.7531738,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 8,
+      "ForceSkipCommand": 0,
+      "Frame": 156,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fe",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 112.213,
+          "Y": 28.13965,
+          "Z": 1458.483
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 143.104248,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "CSD_",
+      "Field04": 3,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 157,
+      "Duration": 1,
+      "DataSize": 80,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "SomeCameraBitfield": 272,
+        "Position": {
+          "X": 50.7668533,
+          "Y": 65.96402,
+          "Z": 1018.50946
+        },
+        "Rotation": {
+          "X": -173.200684,
+          "Y": -7.22113037,
+          "Z": 0.0
+        },
+        "Fov": 45.0,
+        "Field20": 763.487244,
+        "Field24": 0.0,
+        "Field28": 100003.414,
+        "Field2C": 0.78,
+        "Field30": 0,
+        "Field34": 4,
+        "Field38": 375.0,
+        "Field3C": 565.0,
+        "Field40": 512,
+        "Field44": 0,
+        "Field48": 0,
+        "Field4C": 0
+      }
+    },
+    {
+      "Type": "MRgs",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 6,
+      "ForceSkipCommand": 0,
+      "Frame": 157,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 2,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MRgs",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 7,
+      "ForceSkipCommand": 0,
+      "Frame": 157,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 2,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MRgs",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 20,
+      "ForceSkipCommand": 0,
+      "Frame": 157,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 2,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 5,
+      "ForceSkipCommand": 0,
+      "Frame": 157,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fa",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 218.61,
+          "Y": -79.48242,
+          "Z": 1438.582
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -160.202637,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 18,
+      "ForceSkipCommand": 0,
+      "Frame": 157,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 322.8694,
+          "Y": -60.4541,
+          "Z": 1397.223
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -107.242126,
+          "Z": 0.0
+        },
+        "Field18": 13,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 5,
+      "ForceSkipCommand": 0,
+      "Frame": 157,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fa",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 216.3027,
+          "Y": -71.0,
+          "Z": 1436.68
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -42.0,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 4,
+        "Field2C": 36,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "ESD_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 10,
+      "ForceSkipCommand": 0,
+      "Frame": 157,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fa",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 177.151016,
+        "Field08": 69.0,
+        "Field0C": 1470.3927,
+        "Field10": 0.0,
+        "Field14": 2.97053981,
+        "Field18": 0.0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "Fd__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 160,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "FadeMode": "FadeOut",
+        "FadeType": 0,
+        "Field06": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 165,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 165.646149,
+          "Y": 32.4389648,
+          "Z": 1381.529
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 185,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 36.5649872,
+          "Y": 12.37793,
+          "Z": 1400.86523
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 210,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 121.219086,
+          "Y": 52.51465,
+          "Z": 1398.87463
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "Scr_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 210,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "ProcedureIndex": 4,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 215,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 123.570412,
+          "Y": 88.13599,
+          "Z": 1390.13757
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "Fd__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 229,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "FadeMode": "FadeIn",
+        "FadeType": 19,
+        "Field06": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "CSD_",
+      "Field04": 3,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 230,
+      "Duration": 1,
+      "DataSize": 80,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "SomeCameraBitfield": 272,
+        "Position": {
+          "X": 335.2955,
+          "Y": 205.19133,
+          "Z": 242.10437
+        },
+        "Rotation": {
+          "X": 151.941635,
+          "Y": -18.3836422,
+          "Z": 0.0
+        },
+        "Fov": 45.0,
+        "Field20": 763.487244,
+        "Field24": 0.0,
+        "Field28": 100003.414,
+        "Field2C": 0.78,
+        "Field30": 0,
+        "Field34": 4,
+        "Field38": 375.0,
+        "Field3C": 565.0,
+        "Field40": 512,
+        "Field44": 0,
+        "Field48": 0,
+        "Field4C": 0
+      }
+    },
+    {
+      "Type": "CSD_",
+      "Field04": 3,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 230,
+      "Duration": 1,
+      "DataSize": 80,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f6",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "SomeCameraBitfield": 272,
+        "Position": {
+          "X": 318.7737,
+          "Y": 201.489029,
+          "Z": 272.97876
+        },
+        "Rotation": {
+          "X": 159.633514,
+          "Y": -29.7719688,
+          "Z": 0.0
+        },
+        "Fov": 45.0,
+        "Field20": 763.487244,
+        "Field24": 0.0,
+        "Field28": 100003.414,
+        "Field2C": 0.78,
+        "Field30": 0,
+        "Field34": 4,
+        "Field38": 375.0,
+        "Field3C": 565.0,
+        "Field40": 512,
+        "Field44": 0,
+        "Field48": 0,
+        "Field4C": 0
+      }
+    },
+    {
+      "Type": "EnFD",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 230,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "Field04": 4354,
+        "Field08": 0,
+        "Field0C": 0,
+        "Field10": 0,
+        "LowerBounds": 100.0,
+        "UpperBounds": 1000.0,
+        "Red": 100,
+        "Green": 94,
+        "Blue": 103,
+        "Alpha": 110
+      }
+    },
+    {
+      "Type": "EnLI",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 230,
+      "Duration": 1,
+      "DataSize": 48,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "Field04": 4354,
+        "Field08": 0,
+        "Field0C": 0,
+        "Field10": -1.03755427E-15,
+        "Field14": -1.32755025E+17,
+        "Field18": "NaN",
+        "Field1C": 0.139244646,
+        "Field20": 0.990255058,
+        "Field24": -0.002426469,
+        "Field28": 0,
+        "Field2C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_DoesNotEqual_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 215.544,
+          "Y": -0.1625977,
+          "Z": 586.8711
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -159.92981,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 0,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 0,
+        "Target": {
+          "X": 191.198471,
+          "Y": 127.886719,
+          "Z": 438.950958
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f5",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 233.7188,
+          "Y": -0.1625977,
+          "Z": 572.6825
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -164.161377,
+          "Z": 0.0
+        },
+        "Field18": 3,
+        "Field1C": 1.401298E-44,
+        "Field20": 0,
+        "Field24": 1.5,
+        "Field28": 5,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f6",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 220.4396,
+          "Y": -0.1625977,
+          "Z": 611.1486
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 113.778076,
+          "Z": 0.0
+        },
+        "Field18": 5,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 4,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MAB_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fa",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "AnimationID": 18,
+        "Field04": 0,
+        "LoopBool": 1,
+        "AnimationSpeed": 1.0,
+        "Field10": 0,
+        "Field14": 0,
+        "Field18": 1,
+        "Field1C": 1.0,
+        "Field20": 195,
+        "Field21": 27,
+        "Field22": 0,
+        "Field24": 0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MAA_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "BlendAnimationID": 21,
+        "Field08": 0,
+        "AnimationSpeed": 1.0,
+        "Field10": 0,
+        "Field14": 1.0,
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 4,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": 161.3447,
+          "Y": 110.5825,
+          "Z": 441.9164
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 32.9223633,
+          "Z": 0.0
+        },
+        "Field18": 13,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 4,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 393216,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 205.223175,
+          "Y": 150.633179,
+          "Z": 575.8518
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 4,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f6",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 0,
+        "Target": {
+          "X": 244.385712,
+          "Y": 68.61749,
+          "Z": 509.8666
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MRgs",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 6,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 1,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 6,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": -27.6613,
+          "Y": 3.133301,
+          "Z": 559.6062
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 35.3833,
+          "Z": 0.0
+        },
+        "Field18": 13,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 5,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": -75.01414,
+          "Y": 13.64502,
+          "Z": 424.4543
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -73.98926,
+          "Z": 0.0
+        },
+        "Field18": 13,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 6,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 393216,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": -54.95712,
+          "Y": 75.20361,
+          "Z": 661.280457
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MRgs",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 7,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 1,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MSD_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 7,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Position": {
+          "X": -47.8093,
+          "Y": 12.89941,
+          "Z": 668.9792
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": -15.1757813,
+          "Z": 0.0
+        },
+        "Field18": 0,
+        "Field1C": 0.0,
+        "Field20": 1,
+        "Field24": 1.0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 7,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 65536,
+        "Field08": 131072,
+        "Target": {
+          "X": -47.8092957,
+          "Y": 12.8994141,
+          "Z": 668.9792
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "MAB_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f5",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "AnimationID": 3,
+        "Field04": 0,
+        "LoopBool": 0,
+        "AnimationSpeed": 1.0,
+        "Field10": 4,
+        "Field14": 655360,
+        "Field18": 1,
+        "Field1C": 1.0,
+        "Field20": 243,
+        "Field21": 26,
+        "Field22": 0,
+        "Field24": 0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MAt_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 48,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f5",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 16,
+        "Field04": 101,
+        "Field08": 22,
+        "Field0C": 0,
+        "Field10": 0,
+        "Field14": 0,
+        "Field18": 0,
+        "Field1C": 0,
+        "Field20": 0,
+        "Field24": 0,
+        "Field28": 0,
+        "Field2C": 0
+      }
+    },
+    {
+      "Type": "ESD_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 21,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f6",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 220.528992,
+        "Field08": 21.595459,
+        "Field0C": 584.0595,
+        "Field10": 0.0,
+        "Field14": -13.1817627,
+        "Field18": 0.0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "ESD_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 19,
+      "ForceSkipCommand": 0,
+      "Frame": 235,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f5",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 242.460266,
+        "Field08": 56.1071777,
+        "Field0C": 556.345154,
+        "Field10": 0.0,
+        "Field14": 0.0,
+        "Field18": 0.0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "ERgs",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 10,
+      "ForceSkipCommand": 0,
+      "Frame": 236,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 2,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "Fd__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 240,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "FadeMode": "FadeOut",
+        "FadeType": 0,
+        "Field06": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MAB_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 240,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f5",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "AnimationID": 3,
+        "Field04": 655360,
+        "LoopBool": 0,
+        "AnimationSpeed": 1.0,
+        "Field10": 4,
+        "Field14": 655360,
+        "Field18": 1,
+        "Field1C": 1.0,
+        "Field20": 242,
+        "Field21": 26,
+        "Field22": 0,
+        "Field24": 0,
+        "Field28": 0,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 245,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f6",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 131072,
+        "Field08": 131072,
+        "Target": {
+          "X": 193.978027,
+          "Y": 131.907715,
+          "Z": 406.602783
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "Scr_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 250,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "ProcedureIndex": 5,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "MAB_",
+      "Field04": 1,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 251,
+      "Duration": 1,
+      "DataSize": 64,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002fa",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "AnimationID": 27,
+        "Field04": 655360,
+        "LoopBool": 0,
+        "AnimationSpeed": 1.0,
+        "Field10": 0,
+        "Field14": 0,
+        "Field18": 1,
+        "Field1C": 1.0,
+        "Field20": 195,
+        "Field21": 26,
+        "Field22": 0,
+        "Field24": 2,
+        "Field28": 35,
+        "Field2C": 0,
+        "Field30": 0,
+        "Field34": 0,
+        "Field38": 0,
+        "Field3C": 0
+      }
+    },
+    {
+      "Type": "MAA_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 251,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "BlendAnimationID": 21,
+        "Field08": 10,
+        "AnimationSpeed": 1.0,
+        "Field10": 0,
+        "Field14": 1.0,
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "Scr_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 256,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "ProcedureIndex": 7,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "Scr_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 1,
+      "Frame": 275,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "ProcedureIndex": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "Msg_",
+      "Field04": 2,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 285,
+      "Duration": 1,
+      "DataSize": 160,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f6",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "numOfEntries": 0,
+        "MessageMode": {
+          "HasMessage": true,
+          "HasSelect": false,
+          "IsSubtitle": false
+        },
+        "MessageMajorId": 5,
+        "MessageMinorId": 0,
+        "MessageSubId": 0,
+        "SelectMajorId": 0,
+        "SelectMinorId": 0,
+        "SelectSubId": 0,
+        "EvtLocalDataIdSelStorage": 0,
+        "Field10": 4,
+        "Field14": 375.0,
+        "Field18": 565.0,
+        "Field1C": 0.0,
+        "Field20": 0,
+        "Field22": 32,
+        "Field24": 0,
+        "Field28": 0.0,
+        "Field2C": 0,
+        "Entries": [
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": 0,
+            "Unknown2": 0,
+            "Unknown3": 0.0
+          },
+          {
+            "Unknown1": 0,
+            "Unknown2": 0,
+            "Unknown3": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "Type": "Msg_",
+      "Field04": 2,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 285,
+      "Duration": 1,
+      "DataSize": 160,
+      "EvtFlagType": "Bitflag",
+      "EvtFlagId": "0x10002f6",
+      "EvtFlagValue": 1,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "numOfEntries": 0,
+        "MessageMode": {
+          "HasMessage": true,
+          "HasSelect": false,
+          "IsSubtitle": false
+        },
+        "MessageMajorId": 6,
+        "MessageMinorId": 0,
+        "MessageSubId": 0,
+        "SelectMajorId": 0,
+        "SelectMinorId": 0,
+        "SelectSubId": 0,
+        "EvtLocalDataIdSelStorage": 0,
+        "Field10": 4,
+        "Field14": 375.0,
+        "Field18": 565.0,
+        "Field1C": 0.0,
+        "Field20": 0,
+        "Field22": 32,
+        "Field24": 0,
+        "Field28": 0.0,
+        "Field2C": 0,
+        "Entries": [
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": -1,
+            "Unknown2": 10,
+            "Unknown3": 1.0
+          },
+          {
+            "Unknown1": 0,
+            "Unknown2": 0,
+            "Unknown3": 0.0
+          },
+          {
+            "Unknown1": 0,
+            "Unknown2": 0,
+            "Unknown3": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "Type": "MLa_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 3,
+      "ForceSkipCommand": 0,
+      "Frame": 290,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 131072,
+        "Field04": 2,
+        "Field08": 131072,
+        "Target": {
+          "X": 261.909119,
+          "Y": -0.162597656,
+          "Z": 563.5026
+        },
+        "Field18": 0,
+        "Field1C": 0
+      }
+    },
+    {
+      "Type": "Fd__",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 315,
+      "Duration": 30,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 1,
+        "FadeMode": "FadeIn",
+        "FadeType": 0,
+        "Field06": 0,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "Scr_",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 315,
+      "Duration": 1,
+      "DataSize": 16,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "ProcedureIndex": 6,
+        "Field08": 0,
+        "Field0C": 0
+      }
+    },
+    {
+      "Type": "CShk",
+      "Field04": 0,
+      "Field06": 0,
+      "ObjectId": 0,
+      "ForceSkipCommand": 0,
+      "Frame": 344,
+      "Duration": 1,
+      "DataSize": 32,
+      "EvtFlagType": "None",
+      "EvtFlagId": "0x0",
+      "EvtFlagValue": 0,
+      "EvtFlagConditionalType": "FlagValue_Equals_FlagIdResult",
+      "Data": {
+        "Field00": 0,
+        "Field04": 1,
+        "Field08": 0,
+        "Field0C": 0.0,
+        "Field10": 0.0,
+        "Field14": 0,
+        "Field18": 0,
+        "Field1C": 0
+      }
+    }
+  ]
+}

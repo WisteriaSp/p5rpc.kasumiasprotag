@@ -1,0 +1,78 @@
+import( "FHIT_002_002_01.msg" );
+
+void CHK_TOILET_MEN_hook()
+{
+    
+    if ( BIT_CHK( 96 ) == 1 )
+    {
+        SUB_KFEVT_BldgA2F_CHK_TOILET_WOMEN();
+    }
+    else if ( BIT_CHK( 1039 ) == 1 )
+    {
+        MSG_WND_DSP();
+        MSG( MSG_LAST_GREETING_etc );
+        MSG_WND_CLS();
+    }
+    else if ( BIT_CHK( 66 ) == 1 )
+    {
+        SUB_MoruShowFace();
+        MSG_WND_DSP();
+        MSG( MSG_TOILET_WOMEN_MORU );
+        MSG_WND_CLS();
+        SUB_MoruReturnBag();
+    }
+    else 
+    {
+        MSG_WND_DSP();
+        MSG_MIND( MSG_TOILET_WOMEN, 0 );
+        MSG_WND_CLS();
+    }
+
+}
+void CHK_TOILET_WOMEN_hook()
+
+{
+    int var3;
+    
+    if ( BIT_CHK( 96 ) == 1 )
+    {
+        SUB_KFEVT_BldgA2F_CHK_TOILET_MEN();
+    }
+    else if ( BIT_CHK( 1039 ) == 1 )
+    {
+        MSG_WND_DSP();
+        MSG( MSG_LAST_GREETING_etc );
+        MSG_WND_CLS();
+    }
+    else if ( ( BIT_CHK( 1533 ) == 1 ) && ( MISSION_GET_STATE( 10 ) == 1 ) )
+    {
+        SUB_MoruShowFace();
+        MSG_WND_DSP();
+        MSG( MSG_CHK_QUEST10_00 );
+        MSG_WND_CLS();
+        SUB_MoruReturnBag();
+        Fld_FadeOut_Default();
+        MSG_WND_DSP();
+        MSG_MIND( MSG_CHK_QUEST10_01, 0 );
+        MSG_WND_CLS();
+        MSG_WND_DSP();
+        MSG_MIND( MSG_CHK_QUEST10_02, 0 );
+        MSG_WND_CLS();
+        FLD_NPC_RELOAD();
+        FLD_NPC_SYNC();
+        Fld_FadeIn_Default();
+        SUB_MoruShowFace();
+        MSG_WND_DSP();
+        MSG( MSG_CHK_QUEST10_03 );
+        MSG_WND_CLS();
+        SUB_MoruReturnBag();
+    }
+    else 
+    {
+        var3 = FLD_SCRIPT_READ( 3210, 10, 0 );
+        FLD_SCRIPT_READ_SYNC( var3 );
+        FLD_SCRIPT_EXEC( var3, 0 );
+        FLD_SCRIPT_FREE( var3 );
+    }
+
+}
