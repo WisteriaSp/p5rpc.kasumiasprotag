@@ -1,0 +1,2 @@
+[msg MSG_448_0_0 [Akechi]]
+[f 0 5 65278][f 2 1][f 4 6 0 9 0 65535 1][f 4 10 65535 0 0][f 3 1 8 0 0 0 65535 0]Hey. Between the delicious drinks and the[n]great music, I finally managed to relax. So...[n]thank you.[n][f 1 3 65535][f 1 1][e]
