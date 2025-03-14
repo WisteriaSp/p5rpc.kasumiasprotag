@@ -1,0 +1,36 @@
+import( "02E9.msg" );
+
+// Procedure Index: 1
+void BTL_02E9_BTLSTART_hook()
+{
+	BTL_LETTERBOX_IN( 1 );
+    SET_HP( 1, GET_MAXHP( 1 ) );
+    SET_SP( 1, GET_MAXSP( 1 ) );
+    SET_HP( 3, GET_MAXHP( 3 ) );
+    SET_SP( 3, GET_MAXSP( 3 ) );
+    FADEIN( 0, 15 );
+    sVar3 = 3;
+    sVar0 = 100;
+    sVar1 = 0;
+    PLAYSCENE_MES();
+    sVar3 = 3;
+    sVar0 = 101;
+    sVar1 = 1;
+    PLAYSCENE_MES();
+    BTL_MISSION_ADD( 23 );
+    BTL_LETTERBOX_OUT( 1 );
+	ADD_PERSONA_SKILL(1, 201, 64);
+}
+
+void PLAYSCENE_MES_hook()
+{
+    int var8;
+    var8 = BTL_CUTSCENE_LOAD( 745, sVar0 );
+    BTL_CUTSCENE_LOADSYNC( var8 );
+    BTL_CUTSCENE_PLAY( var8, 1, sVar3, 2, 265 );
+    MSG_WND_DSP();
+    MSG( sVar1 );
+    MSG_WND_CLS();
+	REMOVE_PERSONA_SKILL(1, 201, 64);
+    BTL_CUTSCENE_END( var8 );
+}

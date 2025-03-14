@@ -1,1 +1,0 @@
-[f 0 5 65278][f 2 1]A Shujin Academy winter[n]uniform for a Metaverse[n]rebel. With longer hair.[n][e]
