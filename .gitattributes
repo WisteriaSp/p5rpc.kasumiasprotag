@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+.usm filter=lfs diff=lfs merge=lfs -text
+L:/Repos2/p5rpc.kasumiasprotag/OptionalModFiles/Misc/Movie/CPK/movie/MOV050.usm filter=lfs diff=lfs merge=lfs -text
+p5rpc.kasumiasprotag/OptionalModFiles/Misc/Movie/CPK/movie/MOV050.usm filter=lfs diff=lfs merge=lfs -text
+OptionalModFiles/Misc/Movie/CPK/movie/MOV050.usm filter=lfs diff=lfs merge=lfs -text
