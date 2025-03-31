@@ -1,0 +1,1 @@
+[f 0 5 65278][f 2 1]Thief attire [f 4 2]'s sister[n]may have worn if she[n]joined the Phantom Thieves...[n]By AWG.[n][e]
