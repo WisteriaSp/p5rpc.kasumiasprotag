@@ -1,5 +1,5 @@
 # Override the outfit name (file name for new outfits, in-game name for game outfits)
-name: "Leader's Uniform"
+name: "Kotone's Uniform"
 
 # Which character assets slot this outfit is for.
 character_assets: 1
