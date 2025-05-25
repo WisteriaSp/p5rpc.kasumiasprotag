@@ -1,0 +1,1 @@
+[f 0 5 65278][f 2 1]The form that [f 4 2][n]may have taken if she entered[n]the cinema labyrinth.[n][e]

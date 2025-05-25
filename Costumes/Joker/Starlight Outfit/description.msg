@@ -1,1 +1,0 @@
-[f 0 5 65278][f 2 1]An outfit that [f 4 2] may[n]have worn while dancing[n]beneath the stars.[n][e]

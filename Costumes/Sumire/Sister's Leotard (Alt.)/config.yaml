@@ -1,4 +1,0 @@
-# Whether the outfit should be treated as a default outfit.
-# The default outfit is used when changing character assets or
-# if a character has an outfit equipped that no longer exists.
-is_default: false

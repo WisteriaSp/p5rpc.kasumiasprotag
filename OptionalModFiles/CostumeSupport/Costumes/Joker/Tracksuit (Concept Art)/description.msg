@@ -1,0 +1,1 @@
+[f 0 5 65278][f 2 1]A special athletic tracksuit.[n]Created by MyTamagos, based on[n]Yoshizawa's concept art.[n][e]

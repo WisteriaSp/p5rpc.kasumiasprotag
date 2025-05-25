@@ -212,6 +212,24 @@
           "ReleaseMetadataName": "Reloaded.Universal.FileEmulationFramework.ReleaseMetadata.json"
         }
       }
+    },
+    "GameBananaDependencies": {
+      "IdToConfigMap": {
+        "p5r.enhance.cbt": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 432481
+          },
+          "ReleaseMetadataName": "p5r.enhance.cbt.ReleaseMetadata.json"
+        },
+        "p5rpc.patch.forcejokername": {
+          "Config": {
+            "ItemType": "mods",
+            "ItemId": 587965
+          },
+          "ReleaseMetadataName": "p5rpc.patch.forcejokername.ReleaseMetadata.json"
+        }
+      }
     }
   },
   "IsUniversalMod": false,
