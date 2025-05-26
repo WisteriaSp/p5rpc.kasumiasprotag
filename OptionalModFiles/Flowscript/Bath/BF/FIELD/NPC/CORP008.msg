@@ -9,4 +9,3 @@
 [msg MSG_C08_YES_05_00 [Akechi]]
 [f 2 1][f 4 6 0 9 1 65535 0][f 4 10 65535 0 0][f 3 1 8 2 1 0 65535 0]Wonderful.[n][f 1 1][e]
 [f 2 1][f 4 6 0 9 0 65535 0][f 4 10 65535 0 0][f 3 1 8 2 1 0 65535 0]Well then, let's get going.[n][f 1 1][e]
-
