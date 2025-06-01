@@ -2,7 +2,7 @@
   "ModId": "p5rpc.kasumiasprotag",
   "ModName": "Kasumi as Protagonist - Pre-Release Build",
   "ModAuthor": "Wisteria",
-  "ModVersion": "0.9.9.1",
+  "ModVersion": "0.9.9",
   "ModDescription": "A visual-only mod that replaces Joker with Kasumi Yoshizawa. Be sure to check out Zyvlos\u0027s Rose \u0026 Violet Story Overhaul! \r\n\r\nNOTE: Please install Costume Framework and use the configure button to set Joker\u0027s character slot to 1.",
   "ModDll": "ProtagSumiConfig.dll",
   "ModIcon": "Preview.png",
@@ -210,49 +210,6 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "Reloaded.Universal.FileEmulationFramework.ReleaseMetadata.json"
-        },
-        "p5rpc.flowscriptframework": {
-          "Config": {
-            "UserName": "Secre-C",
-            "RepositoryName": "p5rpc.flowscriptframework",
-            "UseReleaseTag": true,
-            "AssetFileName": "Mod.zip"
-          },
-          "ReleaseMetadataName": "p5rpc.flowscriptframework.ReleaseMetadata.json"
-        },
-        "p5rpc.evt.fadeouttablemerge": {
-          "Config": {
-            "UserName": "DeathChaos25",
-            "RepositoryName": "p5rpc.evt.fadeouttablemerge",
-            "UseReleaseTag": true,
-            "AssetFileName": "Mod.zip"
-          },
-          "ReleaseMetadataName": "p5rpc.evt.fadeouttablemerge.ReleaseMetadata.json"
-        }
-      }
-    },
-    "GameBananaDependencies": {
-      "IdToConfigMap": {
-        "p5r.enhance.cbt": {
-          "Config": {
-            "ItemType": "Mod",
-            "ItemId": 432481
-          },
-          "ReleaseMetadataName": "p5r.enhance.cbt.reloaded.ReleaseMetadata.json"
-        },
-        "p5rpc.patch.forcejokername": {
-          "Config": {
-            "ItemType": "mods",
-            "ItemId": 587965
-          },
-          "ReleaseMetadataName": "p5rpc.patch.forcejokername.ReleaseMetadata.json"
-        },
-        "p5rpc.flowscriptframework": {
-          "Config": {
-            "ItemType": "Mod",
-            "ItemId": 510809
-          },
-          "ReleaseMetadataName": "p5rpc.flowscriptframework.ReleaseMetadata.json"
         }
       }
     }
@@ -263,6 +220,7 @@
     "P5R.CostumeFramework",
     "p5r.enhance.cbt",
     "p5rpc.modloader",
+    "p5rpc.patch.forcejokername",
     "reloaded.sharedlib.hooks",
     "reloaded.universal.fileemulationframework.bf",
     "reloaded.universal.fileemulationframework.bmd",
