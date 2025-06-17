@@ -1,0 +1,171 @@
+--- E726_063.msg --- ENGLISH CONTEXT: https://youtu.be/FdLgyv7Zmaw?t=1084
+NOTE: Continuation of the last dialogue, will manually provide English reference
+
+[msg MSG_004_5_0 [Jazz Club Manager]]
+Thanks for waiting. Here's your order.
+
+We have a special performance today,
+so I hope you enjoy it.
+
+[msg MSG_024_0_0 [Akechi]]
+...Let's sit back and relax.
+
+(Player thought)
+I enjoyed her singing even
+more than last time...
+
+[msg MSG_005_0_0 [Akechi]]
+Ahh, that's nice. There's
+nothing better than a cold
+drink and some relaxing music.
+
+(Player choices)
+Her singing is incredible. - Re: MSG_007
+It really hit the spot! - Re: MSG_008
+Cheers! - Re: MSG_032
+
+[msg MSG_007_0_0 [Akechi]]
+I see why they call it a
+special performance.
+
+[msg MSG_008_0_0 [Akechi]]
+Haha, thats good to hear.
+
+[msg MSG_032_0_0 [Akechi]]
+Yeah, cheers to us.
+
+[msg MSG_009_0_0 [Akechi]]
+I'm glad we got to chat here again.
+
+[msg MSG_011_0_0 [Akechi]]
+I've never told anyone else about my
+family situation. I wonder why
+I told you? Curious indeed.
+
+Because we get along.
+Because we're similar.
+
+[msg MSG_015_0_0 [Akechi]]
+Now that you mention it, maybe we are
+pretty similar deep down...
+
+[msg MSG_016_0_0 [Akechi]]
+We're both victims of the adults who
+unfairly impacted our lives.
+
+I think you're right. Re: MSG_018
+I don't know about that. Re: MSG_019
+Gonna finish your drink? Re: MSG_020
+
+[msg MSG_018_0_0 [Akechi]]
+I'm even more sure of that after having
+talked with you.
+
+[msg MSG_019_0_0 [Akechi]]
+I'm even more sure of that after having
+met you.
+
+[msg MSG_020_0_0 [Akechi]]
+You really do things at your own pace,
+don't you? I suppose that's one of our
+differences.
+
+But perhaps that's simply the strength not
+to be bothered by others' perceptions.
+In which case... I'm a little envious.
+
+(Player thought)
+I feel like my bond with
+Akechi is growing deeper...
+
+(Rankup animation)
+
+[msg MSG_029_0_0 [Akechi]]
+Hmm... we still haven't finished
+our drinks.
+
+[msg MSG_030_0_0 [Akechi]]
+...Lets see who downs
+theirs faster. First to finish wins.
+
+Are you ready?
+
+[msg MSG_031_0_0 [Akechi]]
+Well, see you later.
+
+[msg MSG_027_0_0 [Akechi]]
+Well, see you later.
+
+
+
+
+(UNUSED - REPLACE WITH PLACEHOLDER TEXT)
+
+[msg MSG_021_0_0 [Akechi]]
+I usually come here when I need some
+time to really think on my own.
+
+So chatting with you here is really
+quite refreshing.
+
+[msg MSG_022_0_0 [Akechi]]
+You know, you're the first person I've
+ever brought here...
+
+[msg MSG_022_5_0 [Akechi]]
+It's not like I was keeping it from anyone,
+but... I suppose it goes to show we do
+have some strange connection.
+
+
+[msg MSG_000_0_0 [Akechi]]
+Well then, why don't we get some
+drinks?
+
+Any recommendations?
+Anything's fine by me.
+An ice-cold beer for me.
+
+[msg MSG_002_0_0 [Akechi]]
+Nothing in particular, but if you don't
+mind me choosing, then I'll put in a
+random order.
+
+You don't have any soft drinks you
+actively dislike, yes?
+
+[msg MSG_003_0_0 [Akechi]]
+You know, I find the people who say
+that end up being extremely picky,
+in the end.
+
+Anyway, I'll put in an order. You don't
+have any soft drinks you dislike, yes?
+
+[msg MSG_004_0_0 [Akechi]]
+...You say that so deadpan, it almost
+sounds like you're serious.
+
+I'll pick some drinks, then, shall I?
+There aren't any soft drinks you
+actively dislike, right?
+
+
+[msg MSG_012_0_0 [Akechi]]
+A café, hm? Sounds like you have good
+taste.
+
+[msg MSG_013_0_0 [Akechi]]
+Is that so? Now I'm intrigued... You
+should show me the place sometime.
+
+[msg MSG_014_0_0 [Akechi]]
+You live there? I'm... not sure that counts
+as a go-to place if you don't actually have
+to go anywhere.
+
+
+[msg MSG_016_5_0 [Akechi]]
+That reminds me, do you cook?
+
+(END OF UNUSED)
