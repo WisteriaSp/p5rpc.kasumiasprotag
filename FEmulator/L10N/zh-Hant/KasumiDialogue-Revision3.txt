@@ -59,6 +59,7 @@ I'm sure she'll stop... eventually.
 [msg MSG_005_0_0 [Ann]]
 Hey so since it's just us...
 Let's have a little girl talk!
+
 I've been wondering
 for a while now...
 
@@ -407,8 +408,8 @@ It really hit the spot! - Re: MSG_008
 Cheers! - Re: MSG_032
 
 [msg MSG_007_0_0 [Akechi]]
-I see why they call it a
-special performance.
+I see why they call it a special 
+performance.
 
 [msg MSG_008_0_0 [Akechi]]
 Haha, thats good to hear.
@@ -628,6 +629,7 @@ back at home.
 --- FHIT_002_002_00.msg ---
 NOTE: Shujin restroom dialogue, I will provide an English video reference manually
 Most of the dialogue below is repeated
+Please place the localization below the English lines, don't replace them!
 
 As a result, I'll just provide the the ones that need localization
 
@@ -666,6 +668,11 @@ idea if I stick around too long.
 
 (Localization goes here, feel free to add a new line if needed)
 
+There's nothing in particular
+that I need to do here for now..
+
+(Localization goes here, feel free to add a new line if needed)
+
 
 This is the girls' bathroom...
 
@@ -673,7 +680,6 @@ It's far dirtier than the ones
 in the classroom building...
 
 (Localization goes here, feel free to add a new line if needed)
-
 
 Ryuji:
 Whoa, wait! You can't be goin' in there!
