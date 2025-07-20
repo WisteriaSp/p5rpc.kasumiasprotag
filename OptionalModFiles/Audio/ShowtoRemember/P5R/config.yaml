@@ -1,8 +1,0 @@
-# CONFIG OPTIONS
-
-# Volume setting. Range: 0.0 to 1.0+
-volume: 0.25
-
-# Set the ACB name the cue(s) are from.
-acb_name: 'bgm'
-

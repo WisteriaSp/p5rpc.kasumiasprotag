@@ -1,1 +1,4 @@
 cue_name: '9818'
+volume: 1
+player_id: 255
+category_ids: [1]
