@@ -2,7 +2,7 @@
 [f 2 1][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 4 0 300 1][f 3 1 8 2 0 6162 65535 0]Ahh, it feels soo nice![n]I could stay in here forever.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022_0_0 [Ann]]
-[f 2 1][f 4 6 0 4 300 65535 0][f 4 10 65535 0 0][f 3 1 8 0 0 0 65535 0]It's nice to get away from[n]the guys for a while. Don't[n]you think?[f 1 3 65535][f 1 1][e]
+[f 2 1][f 4 6 0 4 300 65535 0][f 4 10 65535 0 0][f 3 1 8 0 0 0 65535 0]It's nice to get away from the guys[n]for a while. Don't you think?[f 1 3 65535][f 1 1][e]
 
 [sel SEL_001_0_0 top]
 [f 2 1]Yeah, but it's a bit hot....[e]

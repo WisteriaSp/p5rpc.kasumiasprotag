@@ -5,7 +5,7 @@ void CHK_TOILET_MEN_hook()
     
     if ( BIT_CHK( 96 ) == 1 )
     {
-        SUB_KFEVT_CHK_TOILET_MEN();
+        SUB_KFEVT_CHK_TOILET_WOMEN();
     }
     else if ( BIT_CHK( 1039 ) == 1 )
     {
@@ -38,7 +38,7 @@ void CHK_TOILET_WOMEN_hook()
     
     if ( BIT_CHK( 96 ) == 1 )
     {
-        SUB_KFEVT_CHK_TOILET_WOMEN();
+        SUB_KFEVT_CHK_TOILET_MEN();
     }
     else if ( BIT_CHK( 1039 ) == 1 )
     {

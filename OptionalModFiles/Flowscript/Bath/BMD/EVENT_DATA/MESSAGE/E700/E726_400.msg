@@ -31,13 +31,10 @@
 [s]Cheers![e]
 
 [msg MSG_007_0_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]I see why they call it a[n]special performance.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]I see why they call it a special[n]performance.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Haha, thats good to hear.[n][f 1 3 65535][w][e]
-
-[msg MSG_032_0_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][coop 9 5 9][vp 8 0 0 0 65535 0]Yeah, cheers to us.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Haha, that's good to hear.[n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 2 0 8127 65535 0]I'm glad we got to chat here again.[n][f 1 3 65535][w][e]
@@ -86,11 +83,14 @@
 [s][bup 0 9 4 65535 0][f 4 10 65535 0 0][vp 8 2 0 8038 65535 0]Hmm... we still haven't finished[n]our drinks.[n][f 1 3 65535][w][e]
 
 [msg MSG_030_0_0 [Akechi]]
-[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Lets see who downs[n]theirs faster. First to finish wins.[n][f 1 3 65535][w][e]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]...Let's see who downs[n]theirs faster. First to finish wins.[n][f 1 3 65535][w][e]
 [s][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]Are you ready?[n][f 1 3 65535][w][e]
 
 [msg MSG_031_0_0 [Akechi]]
 [s][vp 8 2 0 54414 65535 0]Well, see you later.[n][f 1 3 65535][w][e]
+
+[msg MSG_032_0_0 [Akechi]]
+[s][bup 0 9 1 65535 0][f 4 10 65535 0 0][coop 9 5 9][vp 8 0 0 0 65535 0]Yeah, cheers to us.[n][f 1 3 65535][w][e]
 
 [msg MSG_021_0_0 [Akechi]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][vp 8 0 0 0 65535 0]I usually come here when I need some[n]time to really think on my own.[n][f 1 3 65535][w][e]

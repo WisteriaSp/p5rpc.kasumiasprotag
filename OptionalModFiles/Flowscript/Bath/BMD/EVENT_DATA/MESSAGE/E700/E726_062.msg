@@ -31,14 +31,14 @@
 [f 2 1][f 4 10 65535 0 0][f 3 1 8 0 0 0 65535 0]She quit the nightlife jobs as soon as she[n]could, and raised me while doing what[n]part-time work she could find.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008_0_0 [Akechi]]
-[f 2 1][f 4 6 0 9 3 65535 0][f 4 10 65535 0 0][f 4 1 8 2 0 8043 65535 0]The only one who deserves blame is my[n]father. The worthless, degenerate excuse[n]for a man who abandoned my mother.[n][f 1 3 65535][f 1 1][e]
+[f 2 1][f 4 6 0 9 2 65535 0][f 4 10 65535 0 0][f 4 1 8 2 0 8043 65535 0]The only one who deserves blame is my[n]father. The worthless, degenerate excuse[n]for a man who abandoned my mother.[n][f 1 3 65535][f 1 1][e]
 [f 2 1][f 4 6 0 9 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 3 1 8 0 0 0 65535 0]I wanted to force him to finally give[n]her the apology he owes her. But...[n]that's no longer possible.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009_0_0 [Akechi]]
 [f 2 1][f 4 6 0 9 0 65535 0][f 4 10 65535 0 0][f 5 13 9 5 9][f 3 1 8 0 0 0 65535 0]It's in the past. I have no reason to[n]blame my mother either.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009_5_0 [Akechi]]
-[f 2 1][f 4 6 0 9 302 65535 0][f 4 10 65535 0 0][f 3 1 8 2 0 8043 65535 0]The only one who deserves blame is my[n]father. The worthless, degenerate excuse[n]for a man who abandoned my mother.[n][f 1 3 65535][f 1 1][e]
+[f 2 1][f 4 6 0 9 2 65535 0][f 4 10 65535 0 0][f 3 1 8 2 0 8043 65535 0]The only one who deserves blame is my[n]father. The worthless, degenerate excuse[n]for a man who abandoned my mother.[n][f 1 3 65535][f 1 1][e]
 [f 2 1][f 4 6 0 9 3 65535 0][f 4 10 65535 0 0][f 4 24 0 4 0 38 5 100][f 3 1 8 0 0 0 65535 0]I wanted to force him to finally give[n]her the apology he owes her. But...[n]that's no longer possible.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_0_0 [Akechi]]
@@ -48,7 +48,7 @@
 [sel SEL_011_0_0 top]
 [f 2 1][f 0 8 2 1 2217]Lead the way.[f 0 1 27][e]
 [f 2 1]Anything's still fine by me.[e]
-[f 2 1]I'll have the usual![e]
+[f 2 1]I'll have... the usual.[e]
 
 [msg MSG_012_0_0 [Akechi]]
 [f 2 1][f 4 6 0 9 1 65535 0][f 4 10 65535 0 0][f 5 13 9 5 9][f 3 1 8 2 0 54418 65535 0]Alright, I'll put in an order for us.[n][f 1 3 65535][f 1 1][e]
