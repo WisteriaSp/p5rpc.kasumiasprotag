@@ -1,5 +1,7 @@
+const KotoneBGMArray = [9817, 9818, 9819]
+const KotoneRand = random_song( KotoneBGMArray )
 encounter["Normal Battles"]:
-  music = battle_bgm(10682, 10681)
+  music = battle_bgm( KotoneRand, KotoneRand, KotoneRand )
   victory_music = song(10710)
 end
 
