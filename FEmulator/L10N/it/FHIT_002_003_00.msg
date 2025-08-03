@@ -3,10 +3,10 @@
 [s][vp 1 0 0 0 0 0]It's far dirtier than the ones[n]in the classroom building...[n][w][e]
 
 [msg MSG_TOILET_WOMEN_MORU [Morgana]]
-[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Don't you know that's the boys'[n]bathroom? You're not supposed[n]to be in there...[n][w][e]
+[s][bup 0 3 0 0 0][f 4 10 65535 0 0][vp 8 2 1 1167 65535 0]Non lo sai che quello è il[n]bagno maschile?[n]Non dovresti entrarci…[n][w][e]
 
 [msg MSG_TOILET_WOMEN]
-[s][vp 1 0 0 0 0 0]I don't have a good reason[n]to be in the boys' restroom...[n][w][e]
+[s][vp 1 0 0 0 0 0]Non ho motivo di entrare[n]nel bagno dei maschi…[n][w][e]
 
 [msg MND_E12310100_CHK_TOILET]
 [s][vp 1 0 0 0 0 0]This is the ladies' bathroom...[n][w][e]
