@@ -5,6 +5,7 @@ void f022_001_init_hook()
     SET_SYS_SCRIPT_FLAG((2238 + var102), 1);
 	SET_SYS_SCRIPT_FLAG(2240, 1);
 	SET_SYS_SCRIPT_FLAG(2241, 1);
+	SET_SYS_SCRIPT_FLAG(2242, 1);
     MAIN_FieldInit();
     MAIN_KfevtInit();
     MAIN_PlaceNameDisp();

@@ -14,4 +14,7 @@
 [f 0 5 65278][f 2 1]Una sombra reprimida...[n]Por @Emi_mi16 (twitter) / @emiumi (bsky)[n][e]
 
 [msg MSG_204]
-[f 0 5 65278][f 2 1]¿Te convertirás en el modelo a seguir[n]de la humanidad?[n]Por @cloudrifto (bsky/tumblr)
+[f 0 5 65278][f 2 1]¿Te convertirás en el modelo a seguir[n]de la humanidad?[n]Por @cloudrifto (bsky/tumblr)[n][e]
+
+[msg MSG_205]
+[f 0 5 65278][f 2 1]By an Anonymous artist.[n][e]

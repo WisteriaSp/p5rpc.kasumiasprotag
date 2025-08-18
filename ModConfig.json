@@ -1,8 +1,8 @@
 {
   "ModId": "p5rpc.kasumiasprotag",
-  "ModName": "Kasumi as Protagonist - Pre-Release Build",
+  "ModName": "Kasumi as Protagonist",
   "ModAuthor": "Wisteria",
-  "ModVersion": "0.9.9",
+  "ModVersion": "1.0.6",
   "ModDescription": "A visual-only mod that replaces Joker with Kasumi Yoshizawa. Be sure to check out Zyvlos\u0027s Rose \u0026 Violet Story Overhaul! \r\n\r\nNOTE: Please install Costume Framework and use the configure button to set Joker\u0027s character slot to 1.",
   "ModDll": "ProtagSumiConfig.dll",
   "ModIcon": "Preview.png",
@@ -17,8 +17,8 @@
   "ReleaseMetadataFileName": "p5rpc.kasumiasprotag.ReleaseMetadata.json",
   "PluginData": {
     "GameBanana": {
-      "ItemType": "Wip",
-      "ItemId": 75092
+      "ItemType": "Mod",
+      "ItemId": 573578
     },
     "GitHubDependencies": {
       "IdToConfigMap": {
@@ -85,6 +85,15 @@
           },
           "ReleaseMetadataName": "PAK.Stream.Emulator.ReleaseMetadata.json"
         },
+        "reloaded.universal.fileemulationframework.spd": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "SPD.File.Emulator.ReleaseMetadata.json"
+        },
         "Ryo.Reloaded": {
           "Config": {
             "UserName": "RyoTune",
@@ -129,15 +138,6 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "p5rpc.lib.ReleaseMetadata.json"
-        },
-        "reloaded.universal.fileemulationframework.spd": {
-          "Config": {
-            "UserName": "Sewer56",
-            "RepositoryName": "FileEmulationFramework",
-            "UseReleaseTag": false,
-            "AssetFileName": "Mod.zip"
-          },
-          "ReleaseMetadataName": "SPD.File.Emulator.ReleaseMetadata.json"
         },
         "BGME.BattleThemes": {
           "Config": {
@@ -210,6 +210,42 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "Reloaded.Universal.FileEmulationFramework.ReleaseMetadata.json"
+        },
+        "p5rpc.flowscriptframework": {
+          "Config": {
+            "UserName": "Secre-C",
+            "RepositoryName": "p5rpc.flowscriptframework",
+            "UseReleaseTag": true,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "p5rpc.flowscriptframework.ReleaseMetadata.json"
+        },
+        "p5rpc.evt.fadeouttablemerge": {
+          "Config": {
+            "UserName": "DeathChaos25",
+            "RepositoryName": "p5rpc.evt.fadeouttablemerge",
+            "UseReleaseTag": true,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "p5rpc.evt.fadeouttablemerge.ReleaseMetadata.json"
+        }
+      }
+    },
+    "GameBananaDependencies": {
+      "IdToConfigMap": {
+        "p5r.enhance.cbt": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 432481
+          },
+          "ReleaseMetadataName": "p5r.enhance.cbt.reloaded.ReleaseMetadata.json"
+        },
+        "p5rpc.flowscriptframework": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 510809
+          },
+          "ReleaseMetadataName": "p5rpc.flowscriptframework.ReleaseMetadata.json"
         }
       }
     }
@@ -220,18 +256,18 @@
     "P5R.CostumeFramework",
     "p5r.enhance.cbt",
     "p5rpc.modloader",
-    "p5rpc.patch.forcejokername",
     "reloaded.sharedlib.hooks",
     "reloaded.universal.fileemulationframework.bf",
     "reloaded.universal.fileemulationframework.bmd",
     "reloaded.universal.fileemulationframework.pak",
+    "reloaded.universal.fileemulationframework.spd",
     "Ryo.Reloaded"
   ],
   "OptionalDependencies": [],
   "SupportedAppId": [
     "p5r.exe"
   ],
-  "ProjectUrl": "https://gamebanana.com/wips/75092",
+  "ProjectUrl": "https://gamebanana.com/mods/573578",
   "CreatorUrl": "",
   "IsSeparator": false
 }

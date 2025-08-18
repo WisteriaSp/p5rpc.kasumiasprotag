@@ -15,3 +15,6 @@
 
 [msg MSG_204]
 [f 0 5 65278][f 2 1]당신은 인류의 모범이 될 수 있을까요?[n]작성자: @cloudrifto (bsky/tumblr)[n][e]
+
+[msg MSG_205]
+[f 0 5 65278][f 2 1]By an Anonymous artist.[n][e]

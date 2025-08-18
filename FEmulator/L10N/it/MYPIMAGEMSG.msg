@@ -15,3 +15,6 @@
 
 [msg MSG_204]
 [f 0 5 65278][f 2 1]Will you become humanity's paragon?[n]By @cloudrifto (bsky/tumblr)
+
+[msg MSG_205]
+[f 0 5 65278][f 2 1]By an Anonymous artist.[n][e]

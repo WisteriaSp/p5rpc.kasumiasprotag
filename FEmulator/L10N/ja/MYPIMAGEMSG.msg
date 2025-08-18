@@ -15,3 +15,6 @@
 
 [msg MSG_204]
 [f 0 5 65278][f 2 1]大衆の道標となるか[n]By @cloudrifto (bsky/tumblr)
+
+[msg MSG_205]
+[f 0 5 65278][f 2 1]匿名のアーティストによる作品です。[n][e]
