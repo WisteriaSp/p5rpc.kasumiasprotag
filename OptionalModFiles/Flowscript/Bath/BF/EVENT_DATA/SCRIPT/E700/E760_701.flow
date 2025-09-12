@@ -1,0 +1,216 @@
+import("E760_701.msg");
+
+void e760_811_11_hook()
+{
+    int var49;
+    int var50;
+    int var51;
+    int var52;
+    int var53;
+    int var54;
+    int var55;
+    int var56;
+    int var57;
+    int var58;
+    int var59;
+    int var60;
+    int var61;
+    int var62;
+    var49 = 0;
+    var50 = 0;
+    var51 = EVT_GET_ASSET_RESHND(3);
+    var52 = EVT_GET_ASSET_RESHND(4);
+    var53 = EVT_GET_ASSET_RESHND(10);
+    var54 = 0;
+    var55 = 0;
+    var56 = 0;
+    var57 = 0;
+    var58 = 0;
+    var59 = 0;
+    var60 = 0;
+    var61 = 0;
+    var62 = 0;
+    // bit id (268435456) + (1920) = 4992
+    // bit id (268435456) + (1922) = 4994
+    // bit id (268435456) + (1924) = 4996
+    
+    if (BIT_CHK((0x10000000 + 1920)) == 1)
+    {
+        var49 = 3;
+        var50 = 0;
+        var56 = 57;
+        var57 = 58;
+        var58 = 59;
+        var59 = 60;
+        var60 = 61;
+        var61 = 62;
+        var62 = 63;
+    }
+    else if (BIT_CHK((0x10000000 + 1922)) == 1)
+    {
+        var49 = 14;
+        var50 = 13;
+        var56 = 0x40;
+        var57 = 65;
+        var58 = 66;
+        var59 = 67;
+        var60 = 68;
+        var61 = 69;
+        var62 = 70;
+    }
+    else if (BIT_CHK((0x10000000 + 1924)) == 1)
+    {
+        var49 = 3;
+        var50 = 0;
+        var56 = 71;
+        var57 = 72;
+        var58 = 73;
+        var59 = 74;
+        var60 = 75;
+        var61 = 76;
+        var62 = 0;
+    }
+
+    
+    if (CMM_CHECK_ENABLE_FUNC(55) == 0)
+    {
+        var55 = (var55 + 1);
+    }
+
+    
+    if (CMM_CHECK_ENABLE_FUNC(52) == 0)
+    {
+        var55 = (var55 + 2);
+    }
+
+    // bit id (268435456) + (1924) = 4996
+    
+    if (BIT_CHK((0x10000000 + 1924)) == 1)
+    {
+        var55 = (var55 + 4);
+    }
+
+    MSG_WND_DSP();
+    MSG(var56, 0);
+    MSG_WND_CLS();
+    // bit id (268435456) + (1215) = 4287
+    // bit id (268435456) + (1215) = 4287
+    
+    if (BIT_CHK((0x10000000 + 1215)) == 0)
+    {
+        MSG_SYSTEM(SYSTEM_InviteRule);
+        BIT_ON((0x10000000 + 1215));
+    }
+
+    _151:
+    // bit id (268435456) + (1920) = 4992
+    // bit id (268435456) + (1922) = 4994
+    // bit id (268435456) + (1924) = 4996
+    
+    if (1)
+    {
+        MSG_WND_DSP();
+        MSG(var57, 0);
+        SEL_DEFKEY(14, 3);
+        SEL_MASK(var55);
+        var54 = SEL(SEL_WhatNextTime);
+        MSG_WND_CLS();
+        
+        if ((BIT_CHK((0x10000000 + 1920)) == 1) || (BIT_CHK((0x10000000 + 1922)) == 1))
+        {
+            goto _152;
+        }
+
+        
+        if (BIT_CHK((0x10000000 + 1924)) == 1)
+        {
+            
+            if (var54 == 0)
+            {
+                
+                if (CMM_GET_LV(6) < 5)
+                {
+                    MSG_WND_DSP();
+                    MSG(MSG_NextTimeOK_CurryNG_F, 0);
+                    MSG_WND_CLS();
+                }
+                else 
+                {
+                    goto _152;
+                }
+
+            }
+            else 
+            {
+                goto _152;
+            }
+
+        }
+
+        goto _151;
+    }
+
+    _152:
+    // bit id (268435456) + (767) = 3839
+    // bit id (268435456) + (754) = 3826
+    
+    if (var54 != 2)
+    {
+        MDL_SET_LOOKAT_MOTION(var51, 2, 2, 0);
+        WAIT(20);
+    }
+    else if (var54 == 2)
+    {
+        MDL_SET_LOOKAT_MOTION(var51, 2, 3, 0);
+        WAIT(20);
+        BIT_OFF((0x10000000 + 767));
+        BIT_ON((0x10000000 + 754));
+    }
+
+    MDL_ANIM(var52, 14, 0, 10, 1);
+    MDL_ANIM_NEXT(var52, 13, 1, 10, 1);
+    // bit id (268435456) + (1933) = 5005
+    // bit id (268435456) + (1934) = 5006
+    // bit id (268435456) + (1924) = 4996
+    // bit id (268435456) + (1930) = 5002
+    // bit id (268435456) + (760) = 3832
+    
+    if (var54 != 2)
+    {
+        MSG_WND_DSP();
+        MSG(var58, 0);
+        
+        if (var54 == 0)
+        {
+            MSG(var60, 0);
+            BIT_ON((0x10000000 + 1933));
+        }
+        else if (var54 == 1)
+        {
+            MSG(var61, 0);
+            BIT_ON((0x10000000 + 1934));
+        }
+
+        MSG_WND_CLS();
+    }
+    else if (var54 == 2)
+    {
+        BIT_OFF((0x10000000 + 760));
+        MSG_WND_DSP();
+        MSG(var59, 0);
+        MSG_WND_CLS();
+    }
+
+    MDL_SET_LOOKAT_MOTION(var51, 2, 2, 0);
+    WAIT(20);
+    
+    if ((var54 == 0) || (var54 == 1))
+    {
+        MSG_WND_DSP();
+        MSG_MIND(MND_ThanksSojiro, 0);
+        MSG_WND_CLS();
+    }
+
+    return;
+}
+
