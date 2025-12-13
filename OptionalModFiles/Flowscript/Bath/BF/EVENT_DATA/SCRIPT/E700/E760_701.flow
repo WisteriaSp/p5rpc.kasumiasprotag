@@ -85,7 +85,7 @@ void e760_811_11_hook()
 
     // bit id (268435456) + (1924) = 4996
     
-    if (BIT_CHK((0x10000000 + 1924)) == 1)
+    if (BIT_CHK((0x10000000 + 1924)) == 1 || BIT_CHK((0x10000000 + 1920)) == 1 || BIT_CHK((0x10000000 + 1922)) == 1)
     {
         var55 = (var55 + 4);
     }
@@ -154,12 +154,12 @@ void e760_811_11_hook()
     // bit id (268435456) + (767) = 3839
     // bit id (268435456) + (754) = 3826
     
-    if (var54 != 2)
+    if (var54 != 3)
     {
         MDL_SET_LOOKAT_MOTION(var51, 2, 2, 0);
         WAIT(20);
     }
-    else if (var54 == 2)
+    else if (var54 == 3)
     {
         MDL_SET_LOOKAT_MOTION(var51, 2, 3, 0);
         WAIT(20);
@@ -175,7 +175,7 @@ void e760_811_11_hook()
     // bit id (268435456) + (1930) = 5002
     // bit id (268435456) + (760) = 3832
     
-    if (var54 != 2)
+    if (var54 != 3)
     {
         MSG_WND_DSP();
         MSG(var58, 0);
@@ -190,10 +190,15 @@ void e760_811_11_hook()
             MSG(var61, 0);
             BIT_ON((0x10000000 + 1934));
         }
+        else if ((var54 == 2) && (BIT_CHK((0x10000000 + 1924)) == 0))
+        {
+            MSG(var62, 0);
+            BIT_ON((0x10000000 + 1930));
+        }
 
         MSG_WND_CLS();
     }
-    else if (var54 == 2)
+    else if (var54 == 3)
     {
         BIT_OFF((0x10000000 + 760));
         MSG_WND_DSP();

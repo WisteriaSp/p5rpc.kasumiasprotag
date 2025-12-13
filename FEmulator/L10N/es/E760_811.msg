@@ -1,4 +1,5 @@
 [sel SEL_WhatNextTime top]
 [s]¿Te preparo curry?[e]
 [s]Puedo hacer café.[e]
+[s]¿Quieres ir a la casa de baños?[e]
 [s]Lo siento, ya tengo planes.[e]
